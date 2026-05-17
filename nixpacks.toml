@@ -2,4 +2,4 @@
 cmds = ["pip install python-telegram-bot==20.7 twilio==8.10.0"]
 
 [start]
-cmd = "python bot2.py"
+cmd = "python bot.py"
